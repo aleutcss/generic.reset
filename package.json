@@ -1,5 +1,5 @@
 {
-  "name": "aleut-reset",
+  "name": "@aleut/aleut-reset",
   "version": "0.2.0",
   "description": "A small, considered reset for the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_generic.reset.scss",
