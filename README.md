@@ -8,4 +8,6 @@ some sensible defaults for some others.
 
 ## Install using npm:
 
+```shell
     $ npm install --save-dev aleut-reset
+```
