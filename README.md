@@ -6,6 +6,6 @@ some sensible defaults for some others.
 
 
 
-Install using npm:
+## Install using npm:
 
     $ npm install --save-dev aleut-reset
